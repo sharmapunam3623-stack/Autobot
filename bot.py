@@ -18,7 +18,7 @@ threading.Thread(target=run_web).start()
 # ================= TELEGRAM CONFIG =================
 API_ID   = 34748242
 API_HASH = "945d68ff63f9328af8121b631372d4d6"
-GROUP    = "autobotcheck"
+GROUP    = "fxlinq1014000888"
 INTERVAL = 28
 SESSION  = "session"
 
